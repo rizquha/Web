@@ -1,0 +1,60 @@
+@{
+    ViewData["Title"]="Get Your Product And Add To Cart";
+}
+<h2>@ViewData["Title"]</h2>
+<p>Add Your Cart</p>
+<div class="text-center">
+    @{
+        var items = ViewBag.items;
+        int total;
+        int sum=0;
+        foreach( var item in items)
+        {
+            <div>
+                <h6>@item.title</h6>
+                <div>
+                    <img src=@item.image width="200px">
+                </div>
+                <h6>Price : @item.price</h6>
+                <h6>Total : @item.total_item_in_cart</h6>
+            </div>
+            total = @item.price*@item.total_item_in_cart;
+            sum+=total;
+
+            <form action="" method="post">
+                <input  id="inp-@item.id" type="text" value="" name="cart" placeholder="  Add to chart">
+                <button id="upd-@item.id" type="button" class="btn btn-primary" value="update" onclick="javascript:submitUpdate(this)">Update</button>
+                <button id="rem-@item.id" type="button" class="btn btn-secondary" value="remove" onclick="javascript:submitRemove(this)">Remove</button><br><br>
+            </form>    
+        }
+        <form action="" method="post">
+            <button id="totalPrice" type="button" class="btn btn-secondary" value="@sum" onclick="javascript:submitCheckout(this)">Checkout</button><br><br>
+            <h6>Total Harga : </h6>
+            <h6 id=sum>@sum</h6>
+        </form> 
+    }
+</div>
+<script type="text/javascript">
+function submitUpdate(btn)
+{
+    var id = btn.id;
+    id = id.substring(4,id.length);
+    var inputId = "inp-"+id;
+    var value = document.getElementById(inputId).value;
+    location.href='/Home/Update?id='+id+'&val='+value;
+}
+function submitRemove(buttonSubmit)
+{
+    var id=buttonSubmit.id;
+    id=id.substring(4,id.length);
+    location.href='/Home/Remove/'+id;
+}
+function submitCheckout(button)
+{
+    var id = button.id;
+    var valueCheckout = document.getElementById(id).value;
+    location.href='/Home/Checkout?sum='+valueCheckout;
+}
+
+</script>
+

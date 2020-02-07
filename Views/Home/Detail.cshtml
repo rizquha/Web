@@ -1,0 +1,23 @@
+@{
+    ViewData["Title"]="Our Product";
+}
+<h2>@ViewData["Title"]</h2>
+<p>Detail Product</p>
+<div class="text-center">
+    @{
+        var items = ViewBag.items;
+        foreach( var item in items)
+        {
+            <div>
+                <h6>@item.title</h6>
+                <div>
+                    <img src=@item.image width="200px">
+                </div>
+                <h6>Description : @item.desc</h6>
+                <h6>Rate : @item.rate</h6>
+                <h6>Price : @item.price</h6>
+                <button type="button" class="btn btn-info" onclick="location.href='/Home/Add/@item.id'">Add to Cart</button>
+            </div>
+        }
+    }
+</div>

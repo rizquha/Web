@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"]="Welcome To Our Store";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome To Our Store</h1>
+    <p>Start Your Day With Best Outfit</p>
+    <ul>
+        @{
+
+            var items = ViewBag.items;
+            foreach(var item in items)
+            {
+                <div class="container">
+                <div class="card">
+                    <br>
+                    <div class="card-img-top">
+                        <img src=@item.image width="200px">
+                    </div>
+                    <br>
+                    <h6>@item.title</h6>
+                    <h6>Rate : @item.rate</h6>
+                    <h6>Price : Rp. @item.price</h6>
+                    <a href="/Home/Detail/@item.id">Details</a><br>
+                    <button type="button" class="btn btn-info" onclick="location.href='/Home/Add/@item.id'">Add to Cart</button>
+                    <br>
+                    <br>
+                </div>
+                </div>
+            }
+        }
+    </ul>
+</div>

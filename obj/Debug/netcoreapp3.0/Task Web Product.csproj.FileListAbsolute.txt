@@ -1,0 +1,73 @@
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\Task Web Product.exe
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\Task Web Product.deps.json
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\Task Web Product.runtimeconfig.json
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\Task Web Product.runtimeconfig.dev.json
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\Task Web Product.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\Task Web Product.pdb
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\Task Web Product.Views.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\Task Web Product.Views.pdb
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\bsi50129\.vscode\Task Web Product\obj\Debug\netcoreapp3.0\Task Web Product.csprojAssemblyReference.cache
+D:\Users\bsi50129\.vscode\Task Web Product\obj\Debug\netcoreapp3.0\staticwebassets\Task Web Product.StaticWebAssets.Manifest.cache
+D:\Users\bsi50129\.vscode\Task Web Product\obj\Debug\netcoreapp3.0\staticwebassets\Task Web Product.StaticWebAssets.xml
+D:\Users\bsi50129\.vscode\Task Web Product\obj\Debug\netcoreapp3.0\Task Web Product.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\bsi50129\.vscode\Task Web Product\obj\Debug\netcoreapp3.0\Task Web Product.RazorAssemblyInfo.cache
+D:\Users\bsi50129\.vscode\Task Web Product\obj\Debug\netcoreapp3.0\Task Web Product.RazorAssemblyInfo.cs
+D:\Users\bsi50129\.vscode\Task Web Product\obj\Debug\netcoreapp3.0\Task Web Product.AssemblyInfoInputs.cache
+D:\Users\bsi50129\.vscode\Task Web Product\obj\Debug\netcoreapp3.0\Task Web Product.AssemblyInfo.cs
+D:\Users\bsi50129\.vscode\Task Web Product\obj\Debug\netcoreapp3.0\Task Web Product.TagHelpers.input.cache
+D:\Users\bsi50129\.vscode\Task Web Product\obj\Debug\netcoreapp3.0\Task Web Product.TagHelpers.output.cache
+D:\Users\bsi50129\.vscode\Task Web Product\obj\Debug\netcoreapp3.0\Task Web Product.RazorCoreGenerate.cache
+D:\Users\bsi50129\.vscode\Task Web Product\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Users\bsi50129\.vscode\Task Web Product\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Users\bsi50129\.vscode\Task Web Product\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Users\bsi50129\.vscode\Task Web Product\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Users\bsi50129\.vscode\Task Web Product\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Users\bsi50129\.vscode\Task Web Product\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Users\bsi50129\.vscode\Task Web Product\obj\Debug\netcoreapp3.0\Task Web Product.RazorTargetAssemblyInfo.cache
+D:\Users\bsi50129\.vscode\Task Web Product\obj\Debug\netcoreapp3.0\Task Web Product.RazorTargetAssemblyInfo.cs
+D:\Users\bsi50129\.vscode\Task Web Product\obj\Debug\netcoreapp3.0\Task Web Product.Views.pdb
+D:\Users\bsi50129\.vscode\Task Web Product\obj\Debug\netcoreapp3.0\Task Web Product.csproj.CopyComplete
+D:\Users\bsi50129\.vscode\Task Web Product\obj\Debug\netcoreapp3.0\Task Web Product.dll
+D:\Users\bsi50129\.vscode\Task Web Product\obj\Debug\netcoreapp3.0\Task Web Product.pdb
+D:\Users\bsi50129\.vscode\Task Web Product\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\bsi50129\.vscode\Task Web Product\obj\Debug\netcoreapp3.0\Razor\Views\Home\Cart.cshtml.g.cs
+D:\Users\bsi50129\.vscode\Task Web Product\obj\Debug\netcoreapp3.0\Razor\Views\Home\Item.cshtml.g.cs
+D:\Users\bsi50129\.vscode\Task Web Product\obj\Debug\netcoreapp3.0\Razor\Views\Home\Detail.cshtml.g.cs
+D:\Users\bsi50129\.vscode\Task Web Product\obj\Debug\netcoreapp3.0\Razor\Views\Home\Checkout.cshtml.g.cs
